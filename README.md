@@ -1,4 +1,4 @@
-# Hi there, I'm nfs-tech-bd (B14CK-KN1GH7) 👋
+# Hi there, I'm (B14CK-KN1GH7) 👋
 
 I'm a passionate developer and cybersecurity enthusiast based in Bangladesh. I enjoy creating tools and scripts—mainly in Python—that explore and solve real-world challenges in the digital space.
 
@@ -26,9 +26,6 @@ I specialize in building innovative projects with a focus on security, automatio
 
 Here are some of the projects featured on my GitHub profile:
 
-- **ebomb**  
-  *A simple email bomber script designed to demonstrate email automation.*
-
 - **IP-FINDER**  
   *A Python-based tool to retrieve comprehensive details about target IP addresses.*
 
@@ -44,6 +41,12 @@ Here are some of the projects featured on my GitHub profile:
 - **auto-deface**  
   *A project that showcases automated website defacement techniques used for testing web vulnerabilities.*
 
+- **Gofile-Bot**  
+  *A simple script that can generate single or multiple direct link from gofile.io*
+
+- **webcloner**  
+  *A script that automatically clones the whole site as html*
+
 > **Note:** These projects are intended solely for educational and authorized research purposes. Please use them responsibly.
 
 ---
@@ -51,8 +54,8 @@ Here are some of the projects featured on my GitHub profile:
 ## 🌐 Connect with Me
 
 - **GitHub:** [nfs-tech-bd](https://github.com/nfs-tech-bd)
-- **Twitter:** *(Add your Twitter handle or link if available)*
-- **LinkedIn:** *(Add your LinkedIn profile link if available)*
+- **Telegram:** [Nafis Fuad](https://t.me/Nafisfuad1)
+- **Facebook:** [Nafis Fuad](https://facebook.com/nafis6969)
 
 ---
 
@@ -60,14 +63,6 @@ Here are some of the projects featured on my GitHub profile:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nfs-tech-bd&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nfs-tech-bd&layout=compact&theme=radical)
-
----
-
-## 🤝 Contributions & Achievements
-
-- Proud member of **NFS TECH BD** community
-- Garnered 507+ followers on GitHub
-- Earned multiple "Starstruck" achievements on GitHub
 
 ---
 
