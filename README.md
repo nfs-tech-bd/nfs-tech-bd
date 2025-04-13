@@ -1,4 +1,4 @@
-<center><img src="https://raw.githubusercontent.com/nfs-tech-bd/nfs-tech-bd/refs/heads/main/b14ck.png" width="300"></center>
+<p align="center"><img src="https://raw.githubusercontent.com/nfs-tech-bd/nfs-tech-bd/refs/heads/main/b14ck.png" width="300"></p>
 
 # Hi there, I'm (B14CK-KN1GH7) 👋
 
